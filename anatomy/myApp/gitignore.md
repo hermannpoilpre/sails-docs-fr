@@ -3,7 +3,7 @@
 
 Ce fichier ne sert que si vous utilisez git.
 
-Il indique à `git` tous les fichier qui ne doivent pas être `envoyé` au serveur distant.  
+Il indique à `git` tous les fichiers qui ne doivent pas être `envoyés` au serveur distant.  
 
 Les fichiers correspondants au pattern décrits dans le code ci-dessous seront ignorés par git. Cela permet de ne pas envoyer sur le dépot des fichiers inutiles, des données sensibles en terme de sécurité ou des fichiers de paramétrages propres au poste local.
 
