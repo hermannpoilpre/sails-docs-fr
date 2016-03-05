@@ -1,7 +1,7 @@
-# myApp
-### Purpose
-This is your Sails project's root directory.  With the exception of your model and controller, all the files and folders that are in it were generated upon running `sails new` .
+# monApp
+### Objectif
+Dossier racine du projet Sails. A l'exception des models et des controllers, tous les fichiers et dossiers sont générés à l'execution de la commande `sails new` .
 
 
-<docmeta name="displayName" value="myApp">
+<docmeta name="nomAffiche" value="monApp">
 
